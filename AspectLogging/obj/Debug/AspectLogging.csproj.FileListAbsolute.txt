@@ -1,0 +1,13 @@
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\bin\Debug\AspectLogging.pdb
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\bin\Debug\log4net.dll
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\bin\Debug\PostSharp.dll
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\bin\Debug\PostSharp.Patterns.Diagnostics.dll
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\bin\Debug\log4net.xml
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\bin\Debug\PostSharp.xml
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\bin\Debug\PostSharp.Patterns.Diagnostics.xml
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\bin\Debug\AspectLogging.pssym
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\obj\Debug\AspectLogging.pdb
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\obj\Debug\AspectLogging.csprojResolveAssemblyReference.cache
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\bin\Debug\AspectLogging.dll
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\obj\Debug\AspectLogging.dll.postsharp
+C:\workspace\Desenv\AspectLogging\AspectLogging\AspectLogging\obj\Debug\AspectLogging.dll
